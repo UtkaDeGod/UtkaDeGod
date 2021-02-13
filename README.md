@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UtkaDeGod
+- 👋 Hi, I’m Alexander.
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on ...
